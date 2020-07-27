@@ -2,7 +2,7 @@
 
 
 
-git clone https://github.com/technicaldada/termux-banner
+git clone https://github.com/sikhoethicalhacking1/termuxstylingforu.git
 
 cd termux-banner
 
