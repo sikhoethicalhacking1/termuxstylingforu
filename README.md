@@ -8,8 +8,8 @@ cd termux-banner
 
 chmod +x requirement.sh
 
-chmod +x t-ban.sh
+chmod +x termuxstyling.sh
 
 bash requirement.sh
 
-bash t-ban.sh
+bash termuxstyling.sh
