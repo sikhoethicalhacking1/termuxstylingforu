@@ -2,7 +2,7 @@
 #!/bin/bash
 #
 #
-# Termux Banner
+# Termux Banner for you
 # Banner by sikho ethical hacking (mr anonymous)
 # _____Do Not Copy Or Modify_____
 #
@@ -12,7 +12,7 @@ figlet -f big Termux Banner | lolcat
 cyan='\e[0;36m'
 lightgreen='\e[1;32m'
 red='\e[1;31m'
-yellow='\e[1;33m'
+green='\e[1;33m'
 echo -e $lightgreen "\e[1m                Mr Anonymous "
 echo " "
 echo -e $yellow "\e[1m                         -Sikho Ethical Hacking "
